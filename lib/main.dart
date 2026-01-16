@@ -43,7 +43,7 @@ class _GenUiDemoPageState extends State<GenUiDemoPage> {
   final List<String> _surfaceIds = [];
   final List<String> _history = [];
 
-  final String _apiKey = 'Your API KEY';
+  // final String _apiKey = 'Your API KEY';
 
   @override
   void initState() {
